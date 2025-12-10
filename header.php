@@ -11,5 +11,7 @@
         <a href="about.php">About</a> |
         <a href="contact.php">Contact</a>
     </nav>
+    <?php include 'footer.php'; ?>
 </body>
+
 </html>
